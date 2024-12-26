@@ -1,4 +1,4 @@
-<h1>**Employee Burnout Analysis and Prediction**
+<h1>**Employee Burnout Analysis and Prediction**</h1>
 
 Project Overview
 This project focuses on analyzing and predicting employee burnout using various machine learning models, including Linear Regression and K-Nearest Neighbors (KNN) Regression. Employee burnout is a critical issue that can significantly affect productivity, job satisfaction, and overall organizational performance. By analyzing various factors such as workload, gender, and work-from-home setup, this project aims to predict burnout levels and help organizations take preventive measures.
