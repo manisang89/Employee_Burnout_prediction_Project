@@ -52,3 +52,5 @@ The following performance metrics are used to evaluate the models:
 - **Mean Squared Error (MSE):** Measures the average squared difference between the predicted and actual values.
 - **Root Mean Squared Error (RMSE):** The square root of MSE, providing error magnitude in the same units as the target variable.
 - **R-Squared (R²):** Represents the proportion of variance in the target variable that is explained by the model.
+- **Mean Absolute Error (MAE):** Measures the average magnitude of errors in predictions, providing a straightforward interpretation of prediction accuracy.
+
